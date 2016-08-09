@@ -1,0 +1,16 @@
+.Black{
+	background-color: black;
+
+}
+*{
+	font-family: Verdana;
+	font-size: 14px;
+}
+li{
+display: inline-block;
+color: white;
+padding: 3%;
+}
+hr{
+	width: 100%
+}

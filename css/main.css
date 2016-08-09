@@ -1,0 +1,50 @@
+.estandar{
+	width: 100px;
+	height: 50px;
+}
+.inline{
+display: inline-block;
+top: 50%;
+left: 20%;
+}
+.linea{
+	display: inline;
+}
+
+.fotociudad{
+	width: 90%;
+	height: 100%;
+}
+.btncirculo{
+	border-radius: 100%;
+	color: white;
+	border:none;
+	padding: 1px;
+	
+	
+}
+.text{
+	margin:0px;
+}
+.mosaico{
+	width: 510px;
+	height: 100px;
+	margin:10px 10px;
+}
+.center{
+	position: absolute;
+	right: 50%;
+	bottom: -49.5%;
+}
+.CBlack{
+	background-color: #000000;
+}
+.CdRosa
+{
+	color: pink;
+}
+.btnFollow{
+	width: 10px;
+	height: 10px;
+	color: white;
+}
